@@ -1,0 +1,14 @@
+<module>
+        <rawname>autoprovision</rawname>
+        <repo>standard</repo>
+        <name>Autoprovisioning</name>
+        <description>RTComm.Ru Phones Autoprovisioning</description>
+        <category>Applications</category>
+        <version>0.1</version>
+        <changelog>
+                *0.1* Initial release
+        </changelog>
+        <supported>
+                <version>0.1</version>
+        </supported>
+</module>
